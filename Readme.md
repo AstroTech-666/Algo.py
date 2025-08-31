@@ -4,10 +4,8 @@
 
 **algo.py** is a robust, Python-first algorithmic trading framework designed for traders, developers, and institutions to build, test, and deploy trading strategies with unparalleled speed and flexibility. Built for modern markets, it bridges the gap between strategy ideation and live execution by combining a lightning-fast backtesting engine, a unified data layer, and broker-agnostic deployment tools.  
 
-🔹 **Join the official Discord Server:** [Click here](https://discord.gg/tpFrXJYFsf)  
 🎥 **View Algo.Py's Tutorials:** [Watch on YouTube](https://www.youtube.com/watch?v=J_krHhmF_No&list=PLzFdtaNfzY4USYC9UYjTz5hgHrJjNwGZS) 
 
-Docs : https://himanshu2406.github.io/Algo.Py/
 
 The framework empowers users to:  
 - **Accelerate strategy development** with live data streaming, multi-market/crypto support, and Python-native tools.  
@@ -16,11 +14,6 @@ The framework empowers users to:
 - **Visualize markets** through institutional-grade charts (footprint, DOM, volume bubbles) and live dashboards.  
 
 Whether you're automating a simple moving average strategy or building high-frequency arbitrage bots for crypto, **algo.py** provides the infrastructure, speed, and intelligence to trade confidently across global markets.  
-
-[![GitHub Issues](https://img.shields.io/github/issues/himanshu2406/Algo.Py)](https://github.com/himanshu2406/Algo.Py/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/himanshu2406/Algo.Py)](https://github.com/himanshu2406/Algo.Py/stargazers)
-[![GitHub License](https://img.shields.io/github/license/himanshu2406/Algo.Py)](LICENSE)
-
 ---
 
 ## 📖 **Table of Contents**
@@ -74,7 +67,7 @@ Whether you're automating a simple moving average strategy or building high-freq
 To setup **Algo.Py**, run:
 
 ```bash
-git clone https://github.com/himanshu2406/Algo.Py.git
+git clone https://github.com/AstroTech-666/Algo.Py.git
 cd Algo.Py
 docker compose up -d
 ```
@@ -103,14 +96,11 @@ streamlit run Dashboard/main_dash.py
 - [ ] Migration to React / better UI
 ---
 
-## 🤝 **Contributing**
-We welcome contributions! To contribute:
-
 1. **Fork** the repository.
 2. **Clone** your forked repo:
 
    ```bash
-   git clone https://github.com/himanshu2406/Algo.Py.git
+   git clone https://github.com/AstroTech-666/Algo.Py.git
    cd Algo.Py
    ```
 
@@ -139,11 +129,5 @@ We welcome contributions! To contribute:
 - ✅ Free for personal & research use.
 - ❌ Cannot be used in paid products, SaaS, hedge funds, or financial firms without a commercial license.
 - 📝 See the [LICENSE](LICENSE) file for details.
-
----
-
-## 📬 **Contact**
-📧 Email: **himanshuclash@gmail.com**  
-📌 LinkedIn: [Himanshu Rathore](https://www.linkedin.com/in/rathore-himanshu/)  
 
 ---
