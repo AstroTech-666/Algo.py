@@ -4,7 +4,7 @@
 
 **algo.py** is a robust, Python-first algorithmic trading framework designed for traders, developers, and institutions to build, test, and deploy trading strategies with unparalleled speed and flexibility. Built for modern markets, it bridges the gap between strategy ideation and live execution by combining a lightning-fast backtesting engine, a unified data layer, and broker-agnostic deployment tools.  
 
-🎥 **View Algo.Py's Tutorials:** [Watch on YouTube](https://www.youtube.com/watch?v=J_krHhmF_No&list=PLzFdtaNfzY4USYC9UYjTz5hgHrJjNwGZS) 
+🎥 **View Algo.Py's Tutorials:** [Watch on YouTube](https://www.youtube.com/watch?v=n9KqFmP-tbs) 
 
 
 The framework empowers users to:  
@@ -69,9 +69,6 @@ git clone https://github.com/AstroTech-666/Algo.Py.git
 cd Algo.Py
 docker compose up -d
 ```
-📺 **Watch the YouTube tutorial for a step-by-step installation guide:**  
-[![Watch the tutorial](https://img.youtube.com/vi/J_krHhmF_No/0.jpg)](https://youtu.be/J_krHhmF_No?si=9mp6IVCd7dwXb3ju)  
-
 
 ---
 
