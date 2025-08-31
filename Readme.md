@@ -21,9 +21,7 @@ Whether you're automating a simple moving average strategy or building high-freq
 - [🚀 Installation](#-installation)
 - [⚡ Quick Start](#-quick-start)
 - [📝 Roadmap](#-roadmap)
-- [🤝 Contributing](#-contributing)
 - [📜 License](#-license)
-- [📬 Contact](#-contact)
 
 ---
 
